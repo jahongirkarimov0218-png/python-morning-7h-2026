@@ -1,0 +1,4 @@
+timestamp,entry_price,signal_type,direction,stake,result,profit
+2025-12-03T05:46:35.918155,1.0789010981522267,Gann,put,1.0,False,-1.0
+2025-12-03T06:24:35.918155,1.0751327543059916,Gann,put,1.0,True,0.8
+2025-12-03T06:44:35.918155,1.073631977241046,Gann,put,1.0,False,-1.0

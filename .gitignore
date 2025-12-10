@@ -1,10 +1,33 @@
-# Виртуальное окружение
-venv/
-.env
+```
+# Trade data files (CSV exports)
+gann_bot_trades_*.csv
+
+# Compiled Python files
 *.pyc
 __pycache__/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Dependencies
+pip-wheel-metadata/
+*.egg-info/
+
+# Logs
 *.log
-db.sqlite3
-media/
-staticfiles/
+
+# Environment files
+.env
+.env.local
+*.env.*
+
+# OS generated files
 .DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
+```

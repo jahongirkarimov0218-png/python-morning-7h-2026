@@ -1,0 +1,19 @@
+# Основные зависимости
+Django==4.2.0
+djangorestframework==3.14.0
+psycopg2-binary==2.9.6
+python-dotenv==1.0.0
+requests==2.31.0
+numpy==1.24.3
+pandas==2.0.3
+
+# Для разработки
+pytest==7.4.0
+pytest-django==4.5.2
+black==23.7.0
+flake8==6.0.0
+
+# Дополнительные утилиты
+celery==5.3.1
+redis==4.5.5
+Pillow==10.0.0

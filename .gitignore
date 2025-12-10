@@ -1,0 +1,10 @@
+# Виртуальное окружение
+venv/
+.env
+*.pyc
+__pycache__/
+*.log
+db.sqlite3
+media/
+staticfiles/
+.DS_Store

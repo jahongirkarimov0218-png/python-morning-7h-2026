@@ -1,10 +1,72 @@
-# Виртуальное окружение
+```
+# Dependencies
+node_modules/
 venv/
-.env
-*.pyc
+.venv/
 __pycache__/
+.mypy_cache/
+.pytest_cache/
+target/
+.gradle/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temp files
 *.log
-db.sqlite3
-media/
-staticfiles/
+*.tmp
+
+# System
 .DS_Store
+Thumbs.db
+
+# Compiled files
+*.pyc
+*.class
+*.o
+*.exe
+*.dll
+*.so
+*.a
+*.obj
+*.out
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Compressed files
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+```
